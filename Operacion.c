@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #include <math.h>
 
+Int suma(int a, int b){
+	return a+b;
+}
+Int resta(int a, int b){
+	return a-b;
+}
 
 int main(){
 int num1 = 12;
